@@ -10,3 +10,5 @@
 26-01-2022 V1.1 Can't pass through barricades made explicit.
 
 03-02-2022 V1.1a Added voice over by Stephen Weese.
+
+18-02-2022 V1.1b Added Translation by team Vidimus
