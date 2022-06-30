@@ -12,3 +12,5 @@
 03-02-2022 V1.1a Added voice over by Stephen Weese.
 
 18-02-2022 V1.1b Added Translation by team Vidimus
+
+30-06-2022 V1.1c Corrected to 1 Full round of playing (instead of 2) after player dies
