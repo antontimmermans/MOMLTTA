@@ -16,3 +16,5 @@
 30-06-2022 V1.1c Corrected to 1 Full round of playing (instead of 2) after player dies
 
 19-09-2022 V1.1d Added Polish translation by sircohen
+
+27-03-2023 V1.1e Added German translation by Frankenraecher
