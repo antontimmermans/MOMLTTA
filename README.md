@@ -18,3 +18,5 @@
 19-09-2022 V1.1d Added Polish translation by sircohen
 
 27-03-2023 V1.1e Added German translation by Frankenraecher
+
+19-09-2022 V1.1d Updated Polish translation by sircohen
