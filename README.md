@@ -19,4 +19,6 @@
 
 27-03-2023 V1.1e Added German translation by Frankenraecher
 
-19-09-2022 V1.1d Updated Polish translation by sircohen
+19-09-2022 V1.1f Updated Polish translation by sircohen
+
+19-09-2022 V1.1g added Russian translation by Krasavvec https://github.com/NPBruce/valkyrie/issues/1677
